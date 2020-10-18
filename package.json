@@ -1,0 +1,23 @@
+{
+  "name": "inpl",
+  "version": "1.0.0",
+  "description": "Agregat informacji z Polski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panpepson/InfoNaDzis.git"
+  },
+  "author": "piotr@trochymiak.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panpepson/InfoNaDzis/issues"
+  },
+  "homepage": "https://github.com/panpepson/InfoNaDzis#readme",
+  "dependencies": {
+    "newsapi": "^2.4.1",
+    "require": "^2.4.20"
+  }
+}

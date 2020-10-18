@@ -5,132 +5,67 @@
 		{
 			"source": {
 				"id": null,
-				"name": "Onet.pl"
+				"name": "Dziennikzachodni.pl"
 			},
-			"author": null,
-			"title": "Kamil Grosicki negocjował transfer z West Bromwich do Nottingham Forest - Onet Sport",
-			"description": "Kamil Grosicki negocjował w piątek transfer z West Bromwich do Nottingham Forest, ale, chociaż okno transferowe w Anglii zatrzasnęło się o godz. 18 polskiego czasu, wciąż nie wiadomo, czy \"Grosik” zmienił barwy klubowe. Reprezentant Polski zafundował wszystki…",
-			"url": "https://www.onet.pl",
-			"urlToImage": "https://ocdn.eu/images/pulscms/OWU7MDA_/20ec3038d7c7d1637e04da3395de954d.png",
-			"publishedAt": "2020-10-16T19:47:15Z",
-			"content": "Kamil Grosicki negocjowa w pitek transfer z West Bromwich do Nottingham Forest, ale, chocia okno transferowe w Anglii zatrzasno si o godz. 18 polskiego czasu, wci nie wiadomo, czy \"Grosik zmieni barw… [+1056 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Dziennik.pl"
-			},
-			"author": "Dziennik.pl",
-			"title": "Niepokojące wieści ze Szwecji. Chodzi o szczepy koronawirusa - Dziennik.pl",
-			"description": "Szpital Uniwersytecki Sahlgrenska w Goeteborgu poinformował w piątek o potwierdzeniu pierwszego w Szwecji przypadku ponownego zakażenia SARS-CoV-2.",
-			"url": "https://wiadomosci.dziennik.pl/swiat/artykuly/7903728,koronawirus-covid-19-szwecja-ponowne-zakazenie-kobieta.html",
-			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/aLRktkuTURBXy9kY2Y3OTRlOS1lYTNhLTRmNzAtYjFmZC1mNmRkZGY4OGRlNDcuanBlZ5GTBc0EsM0CdA",
-			"publishedAt": "2020-10-16T19:40:01Z",
-			"content": "U 53-letniej kobiety koronawirusa najpierw wykryto w maju, a w sierpniu przeprowadzony u niej test na Covid-19 ponownie da pozytywny wynik. Wedug lekarza mikrobiologa Johana Ringlandera ze Szpitala U… [+1020 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Onet.pl"
-			},
-			"author": "Wiadomości Onet",
-			"title": "Koronawirus w Polsce. Ukazało się rozporządzenie z nowymi obostrzeniami - Wiadomości - Onet",
-			"description": "Od soboty w całym kraju lokale gastronomiczne otwarte od godz. 6 do 21, wydarzenia sportowe bez udziału publiczności; od poniedziałku zakaz organizowania imprez okolicznościowych w strefie czerwonej - przewiduje rozporządzenie Rady Ministrów opublikowane w pi…",
-			"url": "https://wiadomosci.onet.pl/kraj/koronawirus-w-polsce-ukazalo-sie-rozporzadzenie-z-nowymi-obostrzeniami/w8flyg2",
-			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/9kRk9kpTURBXy8yYzhiNTc1Mjk3MTYyZjJiZDMyMWJiNTYzZjczNjRhYS5qcGeTlQMAAM0XMc0NC5MJpjI1YjI5MQaTBc0COs0BLIGhMAE/.jpg",
-			"publishedAt": "2020-10-16T19:25:18Z",
-			"content": "<ul><li>W strefie ótej w szkoach wyszych i ponadpodstawowych obowizuje nauczanie hybrydowe;</li><li>w strefie czerwonej nauczanie w szkoach wyszych i ponadpodstawowych bdzie miao charakter zdalny (z … [+3015 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Onet.pl"
-			},
-			"author": "Wiadomości Onet",
-			"title": "USA odrzuca propozycję Putina w sprawie układu o ograniczeniu zbrojeń - Wiadomości - Onet",
-			"description": "Stany Zjednoczone odrzuciły w piątek propozycję prezydenta Rosji Władimira Putina w sprawie przedłużenia o rok, bez żadnych warunków, układu z 2010 r. o ograniczeniu zbrojeń strategicznych. Układ nazywany Nowy START obowiązuje do lutego 2021 r.",
-			"url": "https://wiadomosci.onet.pl/swiat/usa-odrzuca-propozycje-putina-w-sprawie-ukladu-o-ograniczeniu-zbrojen/b3dd2v4",
-			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/jzWk9kuTURBXy8xMjhhZGExMS00NGFhLTQ2ZWMtYTYyNy1jN2YzZjU3ZDVlOGIuanBlZ5OVAwDMnM0TiM0K_JMJpjA2ZDlmOAaTBc0COs0BLIGhMAE/usa-odrzuca-propozycje-putina-w-sprawie-ukladu-o-ograniczeniu-zbrojen.jpg",
-			"publishedAt": "2020-10-16T19:05:25Z",
-			"content": "W owiadczeniu doradca prezydenta USA Donalda Trumpa ds. bezpieczestwa narodowego Robert O'Brien stwierdzi, e propozycja Putina jest nie do przyjcia. Wskaza przy tym, e warunkiem USA jest wstrzymanie … [+1193 chars]"
+			"author": "Redakcja",
+			"title": "Cudny ślub Martyny Wojciechowskiej i Przemka Kossakowskiego. - Życzcie nam dobrze! Zobacz zdjęcia - Dziennik Zachodni",
+			"description": "Martyna Wojciechowska została żoną! Ślub z Przemkiem Kossakowskim był cudownym wydarzeniem. - Dzisiaj wiele się zmieniło, choć dla nas nie zmieniło się nic. Jesteśmy małżeństwem - taką radosną nowiną podzielił się w piątek (16 października) wieczorem na swoim…",
+			"url": "https://dziennikzachodni.pl/cudny-slub-martyny-wojciechowskiej-i-przemka-kossakowskiego-zyczcie-nam-dobrze-zobacz-zdjecia/ar/c13-15240147",
+			"urlToImage": "https://d-art.ppstatic.pl/kadry/k/r/1/5f/30/5f8bd2ca55c85_o_original.jpg",
+			"publishedAt": "2020-10-18T19:44:00Z",
+			"content": "17 padziernika, 19:36, Go:biala suknia i welon u wielokrotnie przechodzonej baby?\r\ndobre :DDDDDDD\r\n17 padziernika, 22:23, Go:\r\nI jeszcze nielubne dziecko. Ale za kas pedofile na wszystko zezwalaj.\r\n1… [+249 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Tvn24.pl"
 			},
-			"author": "mart/kg",
-			"title": "Roman Giertych zatrzymany. Michał Kamiński i Ryszard Kalisz komentują zatrzymanie Giertycha - TVN24",
-			"description": "To, co wczoraj spotkało Romana Giertycha, jutro może spotkać każdego z państwa - mówił w \"Faktach po Faktach\" w TVN24 o zatrzymaniu przez CBA mecenasa Romana Giertycha senator Michał Kamiński z Unii Europejskich Demokratów, prywatnie przyjaciel rodziny Gierty…",
-			"url": "https://tvn24.pl/polska/roman-giertych-zatrzymany-michal-kaminski-i-ryszard-kalisz-komentuja-zatrzymanie-giertycha-4723154",
-			"urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-75cnn8-16-1920-fpf-cln-new-4723211/alternates/LANDSCAPE_1280",
-			"publishedAt": "2020-10-16T18:53:00Z",
-			"content": "To, co wczoraj spotkao Romana Giertycha, jutro moe spotka kadego z pastwa - mówi w \"Faktach po Faktach\" w TVN24 o zatrzymaniu przez CBA mecenasa Romana Giertycha senator Micha Kamiski z Unii Europejs… [+4491 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Interia.pl"
-			},
-			"author": null,
-			"title": "Co się dzieje z Adamem Nawałką? Były selekcjoner mógł pracować m.in. w Tunezji i Arabii Saudyjskiej - Interia",
-			"description": "Kliknij i zobacz więcej.",
-			"url": "https://sport.interia.pl/reprezentacja-polski/news-co-sie-dzieje-z-adamem-nawalka-byly-selekcjoner-mogl-pracowa,nId,4797122",
-			"urlToImage": "https://i.iplsc.com/-/0007WRHJLR2YPPG4-C411.jpg",
-			"publishedAt": "2020-10-16T18:21:31Z",
-			"content": "Adam Nawaka od pótora roku pozostaje bez pracy. Byy selekcjoner reprezentacji Polski, a ostatnio trener Lecha Pozna na razie nie podejmuje nowych wyzwa. Oferty otrzymuje jednak regularnie. Wedug info… [+2450 chars]"
+			"author": "Krzysztof Skórzyński, Szymon Jadczak",
+			"title": "Na Stadionie Narodowym powstaje tymczasowy szpital dla zakażonych koronawirusem - TVN24",
+			"description": "Od dwóch dni na Stadionie Narodowym w Warszawie trwa budowa szpitala polowego dla osób chorych na COVID-19. Na początek ma się w nim znaleźć miejsce dla 500-1000 osób.",
+			"url": "https://tvn24.pl/polska/koronawirus-w-polsce-na-stadionie-narodowym-powstaje-tymczasowy-szpital-dla-zakazonych-koronawirusem-4724548",
+			"urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-cljait-stadion-narodowy-4724544/alternates/LANDSCAPE_1280",
+			"publishedAt": "2020-10-18T19:35:00Z",
+			"content": "Od dwóch dni na Stadionie Narodowym w Warszawie trwa budowa szpitala polowego dla osób chorych na COVID-19. Na pocztek ma si w nim znale miejsce dla 500-1000 osób. \r\nZ informacji dziennikarzy \"Faktów… [+3334 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Gazeta.pl"
 			},
-			"author": "Justyna Bryczkowska",
-			"title": "Komunikat MEN ws. zmian w szkołach ponadpodstawowych. Wchodzi nauka zdalna i hybrydowa - Wiadomosci Gazeta.pl",
-			"description": "Minister edukacji Dariusz Piontkowski wydał komunikat, w którym wyjaśnił zasady, na jakich będą teraz funkcjonować szkoły ponadpodstawowe. Zmiany w sposobie nauczania z wyróżnieniem na strefy zostaną wprowadzone, by ogrniaczyć zasięg epidemii i ochronić osoby…",
-			"url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114883,26405857,komunikat-men-ws-zmian-w-szkolach-ponadpodstawowych-wchodzi.html",
-			"urlToImage": "https://bi.im-g.pl/im/81/1a/19/z26323585IER,Dariusz-Piontkowski.jpg",
-			"publishedAt": "2020-10-16T18:09:00Z",
-			"content": "Po ostatnim spotkaniu Zespołu Zarządzania Kryzysowego rząd wprowadza nowe rozporządzenia, a część z nich dotyczy funkcjonowania szkół. - Szkoły nie są jak na razie ważnym ogniskiem zakażenia i rozwoj… [+2217 chars]"
+			"author": "oprac. Michał Litorowicz",
+			"title": "W Peru odkryto olbrzymi wizerunek kota. Mógł powstać nawet 200 lat p.n.e. \"Wciąż odkrywamy nowe rysunki\" - Wiadomosci Gazeta.pl",
+			"description": "Archeolodzy odkryli kolejny rysunek na płaskowyżu Nazca w Peru. Tym razem ich oczom ukazał się ogromny... kot. Geoglif mógł powstać między 200 a 100 r. przed naszą erą.",
+			"url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,26410011,w-peru-odkryto-olbrzymi-wizerunek-kota-mogl-powstac-nawet-200.html",
+			"urlToImage": "https://bi.im-g.pl/im/33/2f/19/z26410035IER,Na-plaskowyzu-Nazca-odkryto-rysunek-kota.jpg",
+			"publishedAt": "2020-10-18T19:29:00Z",
+			"content": "Jak informuje \"The Guardian\", koci geoglif odkryto podczas prac mających poprawić dostęp do jednego ze wzgórz, które stanowi naturalny punkt widokowy. Rysunek ma około 37 metrów długości. Tworzą go l… [+2514 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Plejada.pl"
 			},
-			"author": "Anna Pawelczyk",
-			"title": "Martyna Wojciechowska i Przemysław Kossakowski wzięli ślub! - Plejada.pl",
+			"author": "Dominika Kruszakin",
+			"title": "Olwia Bieniuk jest już pełnoletnia! Pochwaliła się prezentem urodzinowym - Plejada.pl",
 			"description": "",
-			"url": "https://plejada.pl/newsy/martyna-wojciechowska-i-przemyslaw-kossakowski-wzieli-slub-historia-milosci/vxxwh5w",
-			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/C6vktkpTURBXy81NDViMGUxNTNkZmU3YzQ5NTk5ZDJmODc2YTliNWEzNi5qcGeSlQMAzQFKzQvAzQackwXNAeDNAWg",
-			"publishedAt": "2020-10-16T18:07:35Z",
-			"content": "Martyna Wojciechowska i Przemek Kossakowski dugo nie chcieli potwierdzi tego, e si zarczyli. Paparazzi wielokrotnie próbowali uchwyci piercionek zarczynowy na palcu podróniczki, a w kocu ona sama prz… [+2146 chars]"
+			"url": "https://plejada.pl/newsy/olwia-bieniuk-jest-juz-pelnoletnia-pochwalila-sie-prezentem-urodzinowym/26v8wbm",
+			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/35CktkpTURBXy9iZWIwYjc4OWM1ZDg1N2ZkYjZlYWY0N2MxMDE3YTk2Ny5qcGeSlQMTVM0Dl80CBZMFzQHgzQFo",
+			"publishedAt": "2020-10-18T19:00:00Z",
+			"content": "Pierwsze dziecko uwielbianej przez Polaków aktorki Anny Przybylskiej i znanego pikarza Jarosawa Bieniuka pojawio si na wiecie 18 padziernika 2002 roku. Przez lata media obserwoway dorastanie Oliwii B… [+1867 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Naszemiasto.pl"
+				"name": "Natemat.pl"
 			},
-			"author": "Redakcja",
-			"title": "Nowe obostrzenia od 17 października! Zmiany w czerwonej strefie. Co nas czeka? Do czerwonej strefy trafił m.in. Poznań! - Poznań NaszeMiasto.pl",
-			"description": "W czwartek, 15 października podano informację, że zarówno miasto Poznań jak i powiat poznański znajdą się w strefie czerwonej. W związku z tym od soboty, 17 października wprowadzone zostaną nowe obostrzenia. Sprawdź w naszej galerii, co zmieni się w życiu mie…",
-			"url": "https://poznan.naszemiasto.pl/nowe-obostrzenia-od-17-pazdziernika-zmiany-w-czerwonej/ar/c1-7943437",
-			"urlToImage": "https://d-art.ppstatic.pl/kadry/k/r/4e/ad/5f892eee13773_o_original.jpg",
-			"publishedAt": "2020-10-16T17:42:00Z",
-			"content": "Wykrylimy, e nadal blokujesz reklamy...\r\nTo dziki reklamom moemy dostarczy dla Ciebie wartociowe informacje.\r\n Jeli cenisz nasz prac, prosimy, odblokuj reklamy na naszej stronie.\r\nDzikujemy za Twoje … [+78 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tvn24.pl"
-			},
-			"author": "akw/mtom,rzw",
-			"title": "Brexit. Boris Johnson ostrzega Unię Europejską. Bruksela odmawia kompromisu za wszelką cenę - TVN24",
-			"description": "Nie będzie umowy handlowej z Unią Europejską, o ile nie nastąpi \"fundamentalna\" zmiana podejścia z jej strony - oświadczył premier Wielkiej Brytanii Boris Johnson. Nie powiedział jednak wprost, czy oznacza to zerwanie negocjacji z Unią. Przewodniczący Rady Eu…",
-			"url": "https://tvn24.pl/swiat/brexit-boris-johnson-ostrzega-unie-europejska-bruksela-odmawia-kompromisu-za-wszelka-cene-4722804",
-			"urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-9p7nmc-szczyt-unii-europejskiej-o-brexicie-4723089/alternates/LANDSCAPE_1280",
-			"publishedAt": "2020-10-16T17:32:00Z",
-			"content": "Nie bdzie umowy handlowej z Uni Europejsk, o ile nie nastpi \"fundamentalna\" zmiana podejcia z jej strony - owiadczy premier Wielkiej Brytanii Boris Johnson. Nie powiedzia jednak wprost, czy oznacza t… [+5501 chars]"
+			"author": "Aneta Olender",
+			"title": "Red Lipstick Monster ma koronawirusa. Opublikowała film na YouTube - naTemat.pl",
+			"description": "Red Lipstick Monster ma koronawirusem. Opublikowała na Youtube film, w którym opowiada, jak wyglądają procedury związane z zakażeniem. Podkreśliła także, że bardzo przestrzegała wszelkich obostrzeń i zaleceń. Zawsze chodziła w masce.",
+			"url": "https://natemat.pl/323755,red-lipstick-monster-ma-koronawirusa-opublikowala-film-na-youtube",
+			"urlToImage": "https://cdn.natemat.pl/8e4777d57cf1cec217e53c2f56c81cc4,1200,0,0,0.jpg",
+			"publishedAt": "2020-10-18T18:59:00Z",
+			"content": null
 		},
 		{
 			"source": {
@@ -138,77 +73,142 @@
 				"name": "Interia.pl"
 			},
 			"author": null,
-			"title": "Makabryczne zabójstwo we Francji: Mężczyzna odciął drugiemu głowę - Interia",
+			"title": "Nie żyje Stanisław Kogut. Były senator miał 67 lat - Interia",
 			"description": "Kliknij i zobacz więcej.",
-			"url": "https://wydarzenia.interia.pl/swiat/news-makabryczne-zabojstwo-we-francji-mezczyzna-odcial-drugiemu-g,nId,4797125",
-			"urlToImage": "https://i.iplsc.com/-/000AKRV7UVUNRTW2-C411.jpg",
-			"publishedAt": "2020-10-16T17:03:00Z",
-			"content": "Makabryczne zabójstwo w Conflans-Sainte-Honorine (Yvelines), jednej z miejscowoci pod Paryem. Mczyzna odci gow innej osobie - poinformowaa policja. Ofiara to nauczyciel historii Samuel P. Jak podaj m… [+2069 chars]"
+			"url": "https://wydarzenia.interia.pl/polska/news-nie-zyje-stanislaw-kogut-byly-senator-mial-67-lat,nId,4800444",
+			"urlToImage": "https://i.iplsc.com/-/000ALN9QDIDEWCXQ-C411.jpg",
+			"publishedAt": "2020-10-18T18:01:56Z",
+			"content": "\"Nie yje Stanisaw Kogut, byy senator. Wieczne odpoczywanie racz mu da Panie\" - poinformowa na Twitterze Bartomiej Orze, penomocnik premiera Mateusza Morawieckiego ds. programu Czyste Powietrze. Kogut… [+3554 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Komorkomania.pl"
+				"name": "Wiadomosci.wp.pl"
+			},
+			"author": "Maciej Drzażdżewski",
+			"title": "Ryszard Krauze o zarzutach prokuratury - WP Wiadomości",
+			"description": "Ryszard Krauze udzielił dla mediów krótkiej wypowiedzi na temat stawianych mu zarzutów. W sobotę poznański sąd zdecydował, że wobec biznesmena i współpracowników Romana Giertycha nie zostanie zastosowany",
+			"url": "https://wiadomosci.wp.pl/ryszard-krauze-o-zarzutach-prokuratury-6566067921164960a",
+			"urlToImage": "https://v.wpimg.pl/ODIwNDY5YCUoFTh3dk5tMGtNbC0wF2NmPFV0ZnYFYHF5T3Y8agZ2cGYRJyg8Ryo0JlkpNixFLjM5WT4odlQ_LWYBf2s9XDw0JRY3azxYLSEtWHcnYFEqdXBGY3w4DCxpfRN9JnRXeCVxWionYAUsfH1CfnVoVm05",
+			"publishedAt": "2020-10-18T17:58:00Z",
+			"content": "Ryszard Krauze odniós si do gównego zarzutu prokuratury, jakim jest dziaanie na szkod spóki Polnord. - Pomylono dwa pojcia przysporzenie i zuboenie. Prokuratura zaoya, e Prokom uszczupla majtek Polno… [+1271 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Gazeta.pl"
+			},
+			"author": "oprac. Maria Lipińska",
+			"title": "Opolskie. Czterolatek bez ubrań sam błąkał się po ulicy. Rodzice byli pijani w domu - Wiadomosci Gazeta.pl",
+			"description": "Czteroletnie dziecko biegało same w pieluszce po ulicach Brzegu (woj. opolskie). Rodzice w tym czasie pili alhokol w swoim mieszkaniu. Grozi im do pięciu lat więzienia.",
+			"url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114883,26409914,opolskie-czterolatek-bez-ubran-sam-blakal-sie-po-ulicy-rodzice.html",
+			"urlToImage": "https://bi.im-g.pl/im/75/02/19/z26226549IER,Plac-zabaw-w-Parku-na-Zdrowiu--Rodzice-skarza-sie-.jpg",
+			"publishedAt": "2020-10-18T17:42:00Z",
+			"content": "Pijani rodzice stracili z oczu swoje czteroletnie dziecko, które samo wyszło z mieszkania i przez dłuższy czas błąkało się sam po ulicy. Jeden z przechodniów zgłosił sprawę policji, kiedy zauważył sa… [+684 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Onet.pl"
 			},
 			"author": null,
-			"title": "Dużo zalet i jedna wada. Test Xiaomi Mi 10T Pro - Komórkomania",
-			"description": "Xiaomi Mi 10T Pro to jeden z najlepiej wyposażonych smartfonów w swojej klasie cenowej. Lub - jak kto woli - jeden z najtańszych smartfonów o flagowej specyfikacji. Nie obyło się jednak bez kompromisów.",
-			"url": "https://komorkomania.pl/39325,xiaomi-mi-10t-pro-test-recenzja-i-opinia",
-			"urlToImage": "https://i.wpimg.pl/1200x0/m.komorkomania.pl/xiaomi-mi-10t-pro-test-6485f93e1.jpg",
-			"publishedAt": "2020-10-16T16:37:24Z",
-			"content": "Na redakcyjne testy trafi Xiaomi Mi 10T Pro uzbrojony w aparat 108 Mpix z optyczn stabilizacj obrazu. Podstawowy Mi 10T ma aparat 64 Mpix bez stabilizacji i jest to jedyna rónica midzy tymi modelami.… [+13503 chars]"
+			"title": "Premier League: kosmiczny mecz w Londynie, powrót Bale'a - Sport - Onet",
+			"description": "Tottenham Hotspur zremisował z West Hamem United 3:3 w ramach piątej kolejki Premier League. Koguty długo prowadziły 3:0, ale w końcówce gościom udało się odrobić straty i upokorzyć faworytów. W barwach przyjezdnych pełne 90 minut zaliczył Łukasz Fabiański. W…",
+			"url": "https://www.onet.pl",
+			"urlToImage": "https://ocdn.eu/images/pulscms/OWU7MDA_/20ec3038d7c7d1637e04da3395de954d.png",
+			"publishedAt": "2020-10-18T17:35:48Z",
+			"content": "Tottenham Hotspur zremisowa z West Hamem United 3:3 w ramach pitej kolejki Premier League. Koguty dugo prowadziy 3:0, ale w kocówce gociom udao si odrobi straty i upokorzy faworytów. W barwach przyje… [+742 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Gwiazdy.wp.pl"
+				"name": "Sport.pl"
 			},
-			"author": "Anna Ryta",
-			"title": "Doda pozuje w rajstopach. Jednego nie zauważyła - Wirtualna Polska",
-			"description": "Doda nie zwalnia tempa. Co rusz publikuje na Instagramie kuszące zdjęcia, którymi rozpala wyobraźnię swoich fanów. Ostatnio pochwaliła się długimi nogami, ale, o dziwo, to nie one przykuły największą uwagę",
-			"url": "https://gwiazdy.wp.pl/doda-pozuje-w-rajstopach-jednego-nie-zauwazyla-instagram-6565316714171008a",
-			"urlToImage": "https://v.wpimg.pl/NTg0ODg2YTUGUjl3SElsIEUKbS0OEGJ2EhJ1ZkgCYWdUBXY8VQJ-ZEhWJigCQCskCB4oNhJCLyMXHj8oSFM-PUhGfmsDWz0kC1E2awJfLDEDH3Z0UVd7NVMDYiVUAS15U1V-c0pTLWJQHXl3UFQvNlFRLiBWB2wp",
-			"publishedAt": "2020-10-16T16:18:00Z",
-			"content": "Kilka lat temu Doda przesza metamorfoz. Porzucia kiczowate stylizacje, róowe sukienki, sztuczn opalenizn i tipsy. Nigdy nie zrezygnowaa jednak ze swojej najwikszej mioci - butów. I to nie byle jakich… [+645 chars]"
+			"author": "bk",
+			"title": "Legia uzależniona od jednego piłkarza. Pekhart wykręca kapitalne liczby - Sport.pl",
+			"description": "Siedem goli w ekstraklasie i sześć strzelonych przez Tomasa Pekharta. Z czego dwa w niedzielnym meczu z Zagłębiem Lubin, który Legia wygrała 2:1.",
+			"url": "https://www.sport.pl/pilka/7,65039,26409747,legia-uzalezniona-od-jednego-pilkarza-pekhart-wykreca-kapitalne.html",
+			"urlToImage": "https://bi.im-g.pl/im/a6/2f/19/z26409894IER.jpg",
+			"publishedAt": "2020-10-18T17:23:00Z",
+			"content": "- Piszemy nową historię. Marzy nam się wszystkim, by zagrać dzisiaj dobre spotkanie - mówił Czesław Michniewicz, dla którego niedzielne spotkanie z Zagłębiem było ligowym debiutem na ławce trenerskie… [+1698 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Rmf24.pl"
+			},
+			"author": null,
+			"title": "Ksiądz zmarł w czasie nabożeństwa różańcowego w Słotwinie - RMF 24",
+			"description": "58-letni ks. Mieczysław Grabowski, proboszcz parafii pw. Najświętszego Serca Pana Jezusa w Słotwinie na Żywiecczyźnie, zmarł w sobotę podczas nabożeństwa różańcowego. “Rozdał Komunię i wracając do tabernakulum stracił przytomność” – poinformował na Twitterze …",
+			"url": "https://www.rmf24.pl/fakty/polska/news-ksiadz-zmarl-w-czasie-nabozenstwa-rozancowego-w-slotwinie,nId,4800439",
+			"urlToImage": "https://i.iplsc.com/-/000ALN6SBWL9ISH2-C411.jpg",
+			"publishedAt": "2020-10-18T16:56:00Z",
+			"content": "58-letni ks. Mieczysaw Grabowski, proboszcz parafii pw. Najwitszego Serca Pana Jezusa w Sotwinie na ywiecczynie, zmar w sobot podczas naboestwa róacowego. Rozda Komuni i wracajc do tabernakulum strac… [+1086 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Tabletowo.pl"
+			},
+			"author": "https://www.facebook.com/katarzyna.pura",
+			"title": "Samsung Galaxy S21 (S30) i S21 Ultra na pierwszych grafikach - Tabletowo.pl",
+			"description": "O tym, że Samsung Galaxy S21 (Galaxy S30) może zadebiutować znacznie szybciej niż poprzednie generacje, wiadomo już od jakiegoś czasu. Wygląda na to, że",
+			"url": "https://www.tabletowo.pl/samsung-galaxy-s21-ultra-s30-zdjecia/",
+			"urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2020/10/samsung-galaxy-s21-s30-ultra.jpg",
+			"publishedAt": "2020-10-18T16:30:00Z",
+			"content": "O tym, e Samsung Galaxy S21 (Galaxy S30) moe zadebiutowa znacznie szybciej ni poprzednie generacje, wiadomo ju od jakiego czasu. Wyglda na to, e plotki doczekay si potwierdzenia, a my ju teraz publik… [+1855 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Tvn24.pl"
 			},
-			"author": "mart//rzw",
-			"title": "Protesty na Białorusi. MSW zapowiada \"humanitarne\" użycie broni, także ostrej, wobec demonstrantów - TVN24",
-			"description": "Szef zarządu do spraw walki z przestępczością zorganizowaną MSW Białorusi Mikałaj Karpiankou porównał uczestników demonstracji w tym kraju do \"zorganizowanych grup przestępczych\".  - Użyjemy broni ostrej wobec każdego, kto podniesie rękę na funkcjonariusza - …",
-			"url": "https://tvn24.pl/swiat/protesty-na-bialorusi-msw-zapowiada-humanitarne-uzycie-broni-takze-ostrej-wobec-demonstrantow-4722950",
-			"urlToImage": "https://tvn24.pl/swiat/cdn-zdjecie-2r5st7-zatrzymania-na-bialorusi-4704310/alternates/LANDSCAPE_1280",
-			"publishedAt": "2020-10-16T15:58:00Z",
-			"content": "Szef zarzdu do spraw walki z przestpczoci zorganizowan MSW Biaorusi Mikaaj Karpiankou porówna uczestników demonstracji w tym kraju do \"zorganizowanych grup przestpczych\". - Uyjemy broni ostrej wobec … [+2419 chars]"
+			"author": "akw, akr//rzw",
+			"title": "Protesty na Białorusi. Milicja strzelała gumowymi kulami, są zatrzymania demonstrujących - TVN24",
+			"description": "Podczas sobotniej demonstracji w Mińsku zatrzymano ponad 50 osób - takie dane zamieściło w niedzielę na swej stronie internetowej centrum praw człowieka Wiasna. Wśród zatrzymanych byli uczestnicy marszu studentów i dziennikarze. W niedzielę Białorusini kontyn…",
+			"url": "https://tvn24.pl/swiat/protesty-na-bialorusi-milicja-strzelala-gumowymi-kulami-sa-zatrzymania-demonstrujacych-4724309",
+			"urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-va1gzd-w-niedziele-kontynuowany-jest-protest-w-minsku-4724336/alternates/LANDSCAPE_1280",
+			"publishedAt": "2020-10-18T16:26:00Z",
+			"content": "Podczas sobotniej demonstracji w Misku zatrzymano ponad 50 osób - takie dane zamiecio w niedziel na swej stronie internetowej centrum praw czowieka Wiasna. Wród zatrzymanych byli uczestnicy marszu st… [+3637 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Money.pl"
+				"name": "Rmf24.pl"
 			},
-			"author": "ANA",
-			"title": "Skarbówka wytacza ciężkie działa. Firmy muszą oddać miliony - Money.pl",
-			"description": "Fiskus wytoczył ciężkie działa przeciwko legalnym transakcjom, których głównym celem jest uniknięcie lub istotne zmniejszenie podatku. 12&nbsp;firm ma&nbsp;zwrócić do&nbsp;budżetu 82&nbsp;mln zł&nbsp;korzyści podatkowych, podaje „Puls Biznesu”.",
-			"url": "https://www.money.pl/podatki/skarbowka-wytacza-ciezkie-dziala-firmy-musza-oddac-miliony-6565320612199072a.html",
-			"urlToImage": "https://i.wpimg.pl/1200x0/filerepo.grupawp.pl/api/v1/display/embed/8cdef94b-0dd2-4736-9185-efcb6368a4e9",
-			"publishedAt": "2020-10-16T15:53:29Z",
-			"content": "Chodzi o tzw. klauzul GAAR, która obowizuje w Polsce od czterech lat. Ma ona przeciwdziaa sztucznym (ale legalnym) transakcjom niemajcym uzasadnienia biznesowego, których celem jest uniknicie lub ist… [+1356 chars]"
+			"author": null,
+			"title": "Francuscy nauczyciele: Wolność słowa zagrożona przez islamskich ekstremistów! - RMF 24",
+			"description": "Fala demonstracji przeciwko muzułmańskiemu ekstremizmowi we Francji. Na ulice wyszli mieszkańcy Paryża i wielu innych miast kraju, by wyrazić oburzenie po bestialskim ataku islamskiego terrorysty na nauczyciela jednej z podparyskich szkół podstawowych, który …",
+			"url": "https://www.rmf24.pl/fakty/swiat/news-francuscy-nauczyciele-wolnosc-slowa-zagrozona-przez-islamski,nId,4800413",
+			"urlToImage": "https://i.iplsc.com/-/000ALMXBF6LHOYS5-C411.jpg",
+			"publishedAt": "2020-10-18T16:10:24Z",
+			"content": "Fala demonstracji przeciwko muzumaskiemu ekstremizmowi we Francji. Na ulice wyszli mieszkacy Parya i wielu innych miast kraju, by wyrazi oburzenie po bestialskim ataku islamskiego terrorysty na naucz… [+2558 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Biznesinfo.pl"
+				"name": "Onet.pl"
 			},
-			"author": "Konrad Karpiuk",
-			"title": "Francuzi przejmują wielką polską firmę. Transakcja już niemal zawarta - biznesinfo.pl",
-			"description": "Pekaes (nie mylić z PKS - Państwową Komunikacją Samochodową) to polski operator logistyczny, działający w Polsce od 1958 roku. W międzyczasie właścicielem był m.in. Jan Kulczyk. Obecnie trwa przejęcie spółki przez państwowy kapitał.",
-			"url": "https://www.biznesinfo.pl/pekaes-161020-ks-przejecie-francuzi",
-			"urlToImage": "https://www.biznesinfo.pl/s/i/202010/normal/pekaes-przejety-przez-francuzow-1602857630.jpg",
-			"publishedAt": "2020-10-16T14:51:44Z",
-			"content": "Pekaes (nie myli z PKS - Pastwow Komunikacj Samochodow) to polski operator logistyczny, dziaajcy w Polsce od 1958 roku. W midzyczasie wacicielem by m.in. Jan Kulczyk. Obecnie trwa przejcie spóki prze… [+2396 chars]"
+			"author": "Onet",
+			"title": "Chorzów: 15-latka utonęła podczas kąpieli. Nie wykryto obecności czadu w łazience - Onet",
+			"description": "W sobotni wieczór w jednym z mieszkań w Chorzowie doszło do nieszczęśliwego wypadku. W trakcie kąpieli utonęła 15-latka. Służby wykluczyły zatrucie czadem - podaje \"Dziennik Zachodni\".",
+			"url": "https://wiadomosci.onet.pl/slask/chorzow-15-latka-utonela-podczas-kapieli-nie-wykryto-obecnosci-czadu/kt8knyj",
+			"urlToImage": "https://ocdn.eu/pulscms-transforms/1/kG2k9kpTURBXy8zNDNiNDQxMzAxOTZkNGQzZjQ5ZDNiOTgxMmQ4MGEzYy5qcGeSlQMAH80D6M0CMpMFzQSwzQJ0gqEwAaExAQ",
+			"publishedAt": "2020-10-18T15:25:55Z",
+			"content": "- To by prawdopodobnie nieszczliwy wypadek i wielka tragedia dla rodziny. 15-latka posza okoo godziny 21.00 si wykpa. Jej mama wesza do azienki ok. 21.40 zaniepokojona tym, e córka dugo nie wychodzi.… [+936 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Dorzeczy.pl"
+			},
+			"author": null,
+			"title": "Ekspert: Zamiast Nowej Solidarności nazwa kojarząca się z Kwaśniewskim - Do Rzeczy",
+			"description": "Bez wątpienia najlepszy czas dla tej inicjatywy był zaraz po wyborach, w lipcu. Rafał Trzaskowski uzyskał wtedy bardzo dobry wynik w wyborach prezydenckich, ponad dziesięć milionów głosów. Gdyby wtedy powołał do życia swój ruch, to szanse powodzenia byłyby ni…",
+			"url": "https://www.dorzeczy.pl/kraj/157591/ekspert-miala-byc-nowa-solidarnosc-a-jest-nazwa-ktora-kojarzy-sie-z-kwasniewskim.html",
+			"urlToImage": "https://dorzeczy.pl/_thumb/9f/62/0190e3c512254d2d99022bdb5e8c.jpeg",
+			"publishedAt": "2020-10-18T15:00:00Z",
+			"content": "Jak ocenia Pan inauguracj ruchu Rafaa Trzaskowskiego?\r\nDr Andrzej Anusz: Zacznijmy od nazwy. Prezydent Warszawy wycofa si z nawizania do Solidarnoci, co budzio spore kontrowersje. Nazwa Wspólna Polsk… [+1797 chars]"
 		},
 		{
 			"source": {
@@ -216,51 +216,51 @@
 				"name": "Sportowefakty.wp.pl"
 			},
 			"author": "Wirtualna Polska Media",
-			"title": "Tenis. Prawnik Igi Świątek: To urągało wszelkiej przyzwoitości - WP SportoweFakty",
-			"description": "- Umowa Igi Świątek z jej byłą agencją została narzucona na warunkach urągających wszelkiej przyzwoitości, czyniąc z Igi niemal zakładnika - przekonuje WP SportoweFakty reprezentujący jej interesy mecenas Jarosław Chałas.",
-			"url": "https://sportowefakty.wp.pl/tenis/905136/tenis-prawnik-igi-swiatek-to-uragalo-wszelkiej-przyzwoitosci",
-			"urlToImage": "https://sf-administracja.wpcdn.pl/storage2/featured_original/5f86f2288f5114_17767482.jpg",
-			"publishedAt": "2020-10-16T14:35:00Z",
-			"content": "- Umowa Igi witek z jej by agencj zostaa narzucona na warunkach urgajcych wszelkiej przyzwoitoci, czynic z Igi niemal zakadnika - przekonuje WP SportoweFakty reprezentujcy jej interesy mecenas Jarosa… [+3913 chars]"
+			"title": "PKO Ekstraklasa: Wisła Kraków strzeliła sześć goli. Stal Mielec zmieciona z własnego boiska - WP SportoweFakty",
+			"description": "Świetna partia Wisły Kraków w Mielcu. Przyjezdni sprowadzili beniaminka do roli tła, grali agresywnie oraz ofensywnie i zwyciężyli 6:0. Nie minęła godzina i Stal była na łopatkach.",
+			"url": "https://sportowefakty.wp.pl/pilka-nozna/905446/pko-ekstraklasa-wisla-krakow-strzelila-szesc-goli-stal-mielec-zmieciona-z-wlasne",
+			"urlToImage": "https://sf-administracja.wpcdn.pl/storage2/featured_original/5f8c569a85b7f0_21751729.jpg",
+			"publishedAt": "2020-10-18T14:53:00Z",
+			"content": "wietna partia Wisy Kraków w Mielcu. Przyjezdni sprowadzili beniaminka do roli ta, grali agresywnie oraz ofensywnie i zwyciyli 6:0. Nie mina godzina i Stal bya na opatkach.Sebastian Szczytkowski18 Pad… [+3926 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Plotek.pl"
-			},
-			"author": "Zuzanna Sierzputowska",
-			"title": "\"The Voice of Poland\". Doda chciałaby być jurorką, ale jest skłócona z Górniak. Ujawnia, od czego zaczął się - Plotek.pl",
-			"description": "Doda udzieliła wywiadu w PRL, czyli w Polskim Radiu Londyn, gdzie opowiedziała o promocji swojego filmu. Reporter postanowił poruszyć również temat sporu między Rabczewską a Edytą Górniak. Artystka przedstawiła swoje stanowisko.",
-			"url": "https://www.plotek.pl/plotek/7,154063,26404541,doda-o-konflikcie-z-gorniak-o-co-tak-naprawde-poszlo-ta-historia.html",
-			"urlToImage": "https://bi.im-g.pl/im/9f/2e/19/z26404767IER,Doda.jpg",
-			"publishedAt": "2020-10-16T14:00:00Z",
-			"content": "Zapracowana Doda niedawno zakończyła zdjęcia na planie swojego filmu. Jeśli wszystko pójdzie zgodnie z planem, premiera \"Dziewczyn z Dubaju\" odbędzie się w styczniu 2021 roku. Wokalistka 15 październ… [+2248 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Onet.pl"
+				"name": "Powrotroberta.pl"
 			},
 			"author": null,
-			"title": "Zamieszanie w MSWiA w Poznaniu. Lekarze byli wściekli. „To wyjątkowa ignorancja i bezczelność\" - fakt.pl",
-			"description": "Epidemia koronawirusa w Polsce najwyraźniej wymknęła się spod kontroli. Świadczy o tym chociażby piątkowe zamieszanie w szpitalu MSWiA w Poznaniu. Rano lekarze dowiedzieli się, że ich placówka najprawdopodobniej zostanie przekształcona w jednoimienny szpital …",
-			"url": "https://www.onet.pl",
-			"urlToImage": "https://ocdn.eu/images/pulscms/OWU7MDA_/20ec3038d7c7d1637e04da3395de954d.png",
-			"publishedAt": "2020-10-16T13:11:46Z",
-			"content": "Epidemia koronawirusa w Polsce najwyraniej wymkna si spod kontroli. wiadczy o tym chociaby pitkowe zamieszanie w szpitalu MSWiA w Poznaniu. Rano lekarze dowiedzieli si, e ich placówka najprawdopodobn… [+862 chars]"
+			"title": "\"Można powiedzieć, że wczorajsza awaria nam pomogła\" - Powrót Roberta",
+			"description": "Robert Kubica nie krył swojej radości po dzisiejszym podium na torze Zolder. Polak został 12. kierowcą w tym sezonie DTM, który wbił się do pierwszej trójki. Jak podsumował swój występ i co mu pomogło w zdobyciu 3. miejsca? Po wczorajszej awarii, Kubicę i ORL…",
+			"url": "https://powrotroberta.pl/2020/10/mozna-powiedziec-ze-wczorajsza-awaria-nam-pomogla.html",
+			"urlToImage": "https://powrotroberta.pl/wp-content/uploads/2020/10/DTM-1603030207-scaled-e1603031518490.jpg",
+			"publishedAt": "2020-10-18T14:39:46Z",
+			"content": null
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Www.rp.pl"
+				"name": "Spacex.com.pl"
 			},
 			"author": null,
-			"title": "Polska i świat walczą z koronawirusem - relacja z 16 października - Rzeczpospolita",
-			"description": "Liczba zakażeń koronawirusem SARS-CoV-2 wykrytych w Polsce wzrosła do 157 608, liczba zgonów osób zakażonych - do 3 440 *** 15 października resort zdrowia informował o 8 099 przypadkach koronawirusa wykrytych w ciągu doby - to największy dobowy przyrost liczb…",
-			"url": "https://www.rp.pl/Koronawirus-SARS-CoV-2/201019530-Polska-i-swiat-walcza-z-koronawirusem---relacja-z-16-pazdziernika_.html",
-			"urlToImage": "https://www.rp.pl/storyimage/RP/20201016/SWIAT/201019530/AR/0/AR-201019530.jpg?minW=200&minH=200&exactW=1200&exactH=716&lastModified=20201016181334",
-			"publishedAt": "2020-10-16T13:05:00Z",
-			"content": "Uzyskaj dostp do aktualnego E-wydania\r\nUZYSKAJ DOSTP\r\nMasz aktywn subskrypcj? Zaloguj si lub wypróbuj za darmo wydanie testowe."
+			"title": "Start z misją Starlink-14 zakończony powodzeniem - SpaceX.com.pl",
+			"description": "18 października o godzinie 14:25 czasu polskiego rakieta Falcon 9 wystartowała z platformy LC-39A w Centrum Kosmicznym im. Kennedy'ego na Florydzie i wyniosła na orbitę kolejne 60 satelitów konstelacji Starlink.",
+			"url": "https://spacex.com.pl/wiadomosci/start-z-misja-starlink-14-zakonczony-powodzeniem",
+			"urlToImage": "https://spacex.com.pl/files/2020-10/spacex-starlink-14-launch.png?da862a2c35",
+			"publishedAt": "2020-10-18T13:39:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Tvn24.pl"
+			},
+			"author": "kk/ran",
+			"title": "Garwolin. Nie żyje kierowca karetki zakażony koronawirusem | TVN Warszawa - TVN Warszawa",
+			"description": "Kilkanaście godzin trwały poszukiwania miejsca w szpitalu leczącym chorych na Covid-19 dla kierowcy pogotowia ratunkowego. Choć formalnie łóżko powinno być dostępne, to w piątek wieczorem mężczyzny nie przyjęła żadna placówka specjalistyczna w Warszawie i Sie…",
+			"url": "https://tvn24.pl/tvnwarszawa/najnowsze/garwolin-nie-zyje-kierowca-karetki-zakazony-koronawirusem-4724284",
+			"urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-6hg1kz-sprawa-smierci-kierowcy-pogotowia-4724298/alternates/LANDSCAPE_1280",
+			"publishedAt": "2020-10-18T13:12:00Z",
+			"content": "Kilkanacie godzin trway poszukiwania miejsca w szpitalu leczcym chorych na COVID-19 dla kierowcy pogotowia ratunkowego. Cho formalnie óko powinno by dostpne, to w pitek nie znalazo si dla niego miejs… [+3010 chars]"
 		}
 	]
 }
