@@ -1,8 +1,8 @@
 
 (async function () {
 
-	//var url = 'https://newsapi.org/v2/top-headlines?country=pl&apiKey=e3b79232803745b7b6ba37f0d994dd71';
-	var url = 'news.json';
+	var url = 'https://newsapi.org/v2/top-headlines?country=pl&apiKey=e3b79232803745b7b6ba37f0d994dd71';
+	//var url = 'news.json';
 	var data = await (await fetch(url)).json();
 	//console.log(data.articles[0]);
 	data.articles.forEach(art => {
