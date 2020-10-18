@@ -1,9 +1,8 @@
-const CACHE_NAME = 'sw';
+const CACHE_NAME = 'sw-dzis-1';
 const urlsToCache = [
-	'index.html',
-	'index.js,',
-	'index.css',
-	'manifest.json'
+	'/',
+	'/img/logo-dwpl-32x32.png',
+	'/img/logo-dwpl-96x96.png'
 ];
 self.addEventListener('install', (event) => {
 	event.waitUntil(caches.open(CACHE_NAME).then((cache) => {
