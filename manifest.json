@@ -1,0 +1,22 @@
+{
+	"name": "Info na dziś",
+	"short_name": "Dziś w PL",
+	"start_url": "https://dzis.now.sh",
+	"scope": "/",
+	"display": "standalone",
+	"orientation": "portrait-primary",
+	"background_color": "#fff",
+	"theme_color": "#000",
+	"icons": [
+		{
+			"src": "/img/logo-dwpl-32x32.png",
+			"type": "image/png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "/img/logo-dwpl-96x96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		}
+	]
+}
