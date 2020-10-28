@@ -1,5 +1,5 @@
 # InfoNaDzis
-Agregat informacji z Polski - wersja silnie beta :) 
+Agregat informacji z Polski i ze Świata - wersja silnie beta :) 
 
 # Demo 
-https://dzis.now.sh
+https://dzis.wlodawa.net
