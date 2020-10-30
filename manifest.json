@@ -1,14 +1,13 @@
 {
-	"name": "Info na dziś",
-	"short_name": "Dziś w PL",
-	"start_url": "https://dzis.now.sh",
-	"scope": "/",
-	"display": "standalone",
-	"orientation": "portrait-primary",
-	"background_color": "#fff",
-	"theme_color": "#000",
-	"icons": [
-		{
+    "theme_color": "#000",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "app_name": "Info na dzi\u015b",
+    "short_name": "Dzi\u015bwPL",
+    "icons": [
+         {
 			"src": "/img/logo-dwpl-32x32.png",
 			"type": "image/png",
 			"sizes": "32x32"
@@ -17,6 +16,26 @@
 			"src": "/img/logo-dwpl-96x96.png",
 			"type": "image/png",
 			"sizes": "96x96"
-		}
-	]
+		},
+        {
+            "src": "/img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }

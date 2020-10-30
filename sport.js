@@ -1,6 +1,5 @@
 (async function() {
-
-  var url = "/data/general.json";
+  var url = "/data/sports.json";
   var data = await (await fetch(url)).json();
   data.articles.forEach(art => {
     var head = document.createElement("div");
@@ -28,8 +27,6 @@
   });
   var skocz = document.createElement("p");
   skocz.innerHTML =
-    '<p class="top"><a id="skocz" class="btn" href="#top">^Skocz do góry^</a><br/>k20 v0.1 ^p^</p>';
+    '<p class="top"><a id="skocz" class="btn" href="#top">^Skocz do góry^</a></p>';
   document.body.appendChild(skocz);
 })();
-
-//'<p class="text-center"><a id="Button-1" class="btn btn-infot" href="javascript:void();" role="button"> Skocz do góry</a></p>'
