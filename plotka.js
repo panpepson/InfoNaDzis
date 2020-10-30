@@ -30,3 +30,7 @@
     '<p class="top"><a id="skocz" class="btn" href="#top">^Skocz do góry^</a></p>';
   document.body.appendChild(skocz);
 })();
+function lampka() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}

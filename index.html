@@ -41,26 +41,13 @@
       content="https://dzis.wlodawa.net/img/dzis-wlodawa-256x256.png"
     />
   </head>
-
   <body>
     <span id="top"></span>
+    <script type="module" src="lampa.js"></script>
+    <script type="module" src="menu.js" async defer></script>
     <header>
-      <div class="lampa">
-        <div class="lamp" onclick="lampka()">◐</div>
-        <div class="dzis">Dziś w Polsce</div>
-        <div class="prawe" onclick="alert('Będzie za jakiś czas ☁☃❆☀ヅ')">
-          ☂
-        </div>
-      </div>
-      <div class="nav">
-        <a href="index.php">Start</a> | <a href="nauka.html">Nauka</a> |
-        <a href="plotka.html">Plotka</a>
-        <Br /> <a href="technologia.html">Technologia</a> |
-        <a href="zdrowie.html">Zdrowie</a> |
-        <a href="sport.html">Sport</a>
-      </div>
+      <moje-menu></moje-menu>
     </header>
-
     <script src="index.js"></script>
     <p class="text-center"></p>
     <script>
@@ -78,13 +65,6 @@
             }
           );
         });
-      }
-    </script>
-
-    <script>
-      function lampka() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
       }
     </script>
   </body>

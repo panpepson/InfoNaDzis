@@ -44,20 +44,10 @@ header {
 a:link {
   text-decoration: none;
 }
-.nav {
-  margin-bottom: -1rem;
-  text-align: center;
-  font-size: 0.6em;
-}
 .top {
   text-align: center;
   font-size: 1em;
   font-weight: bold;
-}
-.lampka {
-  font-weight: bold;
-  text-align: center;
-  top: 0;
 }
 .dark-mode {
   filter: invert(100%);
@@ -66,20 +56,4 @@ a:link {
 .dark-mode .head {
   filter: invert(100%);
   background-color: black;
-}
-.lampa {
-  display: grid;
-  grid-template-columns: 20% 60% 20%;
-  grid-template-rows: 1fr;
-  gap: 0px 0px;
-  grid-template-areas: "lamp dzis prawe";
-}
-.lamp {
-  grid-area: lamp;
-}
-.dzis {
-  grid-area: dzis;
-}
-.prawe {
-  grid-area: prawe;
 }
