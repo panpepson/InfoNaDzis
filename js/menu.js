@@ -10,11 +10,11 @@ class mojemenu extends HTMLElement {
 		`;
 
     _template.innerHTML = `<div class="lampa"><div class="lamp" onclick="lampka()">◐</div>
-		<div class="dzis">Dziś w Polsce</div><div class="prawe" onclick="alert(\'Pogoda będzie później ☁☃❆☀ヅ\')">☂</div></div>
-      <div class="nav"><a href="index.html">Start</a> | <a href="nauka.html">Nauka</a> | 
+		<div class="dzis">Dziś w Polsce</div><div class="prawe" onclick="alert(\'Pogoda będzie później ☁☃❆☀ヅ\')">☼</div></div>
+      <div class="nav"><a href="index.html">Start</a> | <a href="nauka.html">Nauka</a> |
       <a href="biznes.html">Biznes</a> |
-		<a href="sport.html">Sport</a><Br /> <a href="technologia.html">Technologia</a> |
-		<a href="zdrowie.html">Zdrowie</a> | <a href="plotka.html">Plotka</a></div>
+		<a href="sport.html" rel="prerender">Sport</a><Br /> <a href="technologia.html" rel="prerender">Technologia</a> |
+		<a href="zdrowie.html">Zdrowie</a> | <a href="plotka.html" rel="prefetch">Plotka</a></div>
 	`;
     this.attachShadow({ mode: "open" });
     this.shadowRoot.appendChild(_style);

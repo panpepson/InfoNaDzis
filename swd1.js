@@ -2,13 +2,13 @@ const CACHE_NAME = "swdzis1";
 const urlsToCache = [
   "/index.css",
   "/offline/index.html",
-  "/index.js",
-  "/biznes.js",
-  "/nauka.js",
-  "/plotka.js",
-  "/sport.js",
-  "/technologia.js",
-  "/zdrowie.js",
+  "/js/index.js",
+  "/js//biznes.js",
+  "/js//nauka.js",
+  "/js//plotka.js",
+  "/js//sport.js",
+  "/js//technologia.js",
+  "/js//zdrowie.js",
   "/img/logo-dwpl-32x32.png",
   "/img/logo-dwpl-96x96.png",
   "/img/favicon-96x96.png",
@@ -20,42 +20,42 @@ const urlsToCache = [
   "/img/icon-512x512.png"
 ];
 
-
-self.addEventListener('install', (event) => {
-function onInstall(){
-    event.waitUntil(caches.open('swdzis1').then((cache) => {
-    return cache.addAll(urlsToCache);
-  }));
+self.addEventListener("install", event => {
+  function onInstall() {
+    event.waitUntil(
+      caches.open("swdzis1").then(cache => {
+        return cache.addAll(urlsToCache);
+      })
+    );
   }
- event.waitUntil(onInstall(event));
+  event.waitUntil(onInstall(event));
 });
 
-self.addEventListener('fetch', event => {
-     event.respondWith(
-    fetch(event.request).catch(()=> {
-    //return caches.match(event.request);
-     return caches.match('/offline/index.html'); 
-     })
+self.addEventListener("fetch", event => {
+  event.respondWith(
+    fetch(event.request).catch(() => {
+      //return caches.match(event.request);
+      return caches.match("/offline/index.html");
+    })
   );
 });
 
-
-self.addEventListener('activate', function activator(event) {
-    console.log('activate!');
-    event.waitUntil(
+self.addEventListener("activate", function activator(event) {
+  console.log("activate!");
+  event.waitUntil(
     caches.keys().then(function(keys) {
-            return Promise.all(keys
-                .filter(function(key) {
-                    return key.indexOf('swdzis1') !== 0;
-                })
-                .map(function(key) {
-                    return caches.delete(key);
-                })
-            );
-        })
-    );
+      return Promise.all(
+        keys
+          .filter(function(key) {
+            return key.indexOf("swdzis1") !== 0;
+          })
+          .map(function(key) {
+            return caches.delete(key);
+          })
+      );
+    })
+  );
 });
-
 
 /**
 

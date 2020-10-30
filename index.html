@@ -23,7 +23,6 @@
       sizes="16x16"
       href="/img/favicon-16x16.png"
     />
-    <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#ffffff" />
     <link rel="manifest" href="manifest.json" />
     <link rel="stylesheet" href="index.css" />
@@ -43,13 +42,11 @@
   </head>
   <body>
     <span id="top"></span>
-    <script type="module" src="lampa.js"></script>
-    <script type="module" src="menu.js" async defer></script>
-    <header>
+    <script type="module" src="/js/menu.js" async defer></script>
+    <header role="banner">
       <moje-menu></moje-menu>
     </header>
-    <script src="index.js"></script>
-    <p class="text-center"></p>
+    <script src="/js/index.js"></script>
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", function() {
