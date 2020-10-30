@@ -10,8 +10,8 @@ class mojemenu extends HTMLElement {
 		`;
 
     _template.innerHTML = `<div class="lampa"><div class="lamp" onclick="lampka()">◐</div>
-		<div class="dzis">Dziś w Polsce</div><div class="prawe" > ☂</div></div>
-      <div class="nav"><a href="index.php">Start</a> | <a href="nauka.html">Nauka</a> | 
+		<div class="dzis">Dziś w Polsce</div><div class="prawe" onclick="alert(\'Pogoda będzie później ☁☃❆☀ヅ\')">☂</div></div>
+      <div class="nav"><a href="index.html">Start</a> | <a href="nauka.html">Nauka</a> | 
       <a href="biznes.html">Biznes</a> |
 		<a href="sport.html">Sport</a><Br /> <a href="technologia.html">Technologia</a> |
 		<a href="zdrowie.html">Zdrowie</a> | <a href="plotka.html">Plotka</a></div>
