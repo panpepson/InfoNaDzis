@@ -56,3 +56,34 @@ a:link {
   filter: invert(100%);
   background-color: black;
 }
+
+.share {
+  /* background-image: url(img/.svg); */
+  /* display: flex;
+  /* align-items: flex-end; */
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  padding-top: 6px;
+  z-index: 2;
+}
+
+.fb {
+  padding-inline-start: 20px;
+}
+.tel {
+  padding-inline-start: 60px;
+}
+
+@media (min-width: 440px) {
+  .fb {
+    padding-inline-start: 40px;
+    width: 30px;
+    height: 30px;
+  }
+  .tel {
+    padding-inline-start: 85px;
+    width: 30px;
+    height: 30px;
+  }
+}

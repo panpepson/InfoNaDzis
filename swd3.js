@@ -1,14 +1,14 @@
-const CACHE_NAME = "swdzis1";
+const CACHE_NAME = "swdzis3";
 const urlsToCache = [
   "/index.css",
   "/offline/index.html",
-  "/js/index.js",
-  "/js//biznes.js",
-  "/js//nauka.js",
-  "/js//plotka.js",
-  "/js//sport.js",
-  "/js//technologia.js",
-  "/js//zdrowie.js",
+  "/index.js",
+  "/biznes.js",
+  "/nauka.js",
+  "/plotka.js",
+  "/sport.js",
+  "/technologia.js",
+  "/zdrowie.js",
   "/img/logo-dwpl-32x32.png",
   "/img/logo-dwpl-96x96.png",
   "/img/favicon-96x96.png",
@@ -17,13 +17,16 @@ const urlsToCache = [
   "/img/icon-192x192.png",
   "/img/icon-256x256.png",
   "/img/icon-384x384.png",
-  "/img/icon-512x512.png"
+  "/img/icon-512x512.png",
+  "/img/fb.svg",
+  "/img/tel.svg",
+  "/img/twit.svg"
 ];
 
 self.addEventListener("install", event => {
   function onInstall() {
     event.waitUntil(
-      caches.open("swdzis1").then(cache => {
+      caches.open("swdzis3").then(cache => {
         return cache.addAll(urlsToCache);
       })
     );
@@ -47,7 +50,7 @@ self.addEventListener("activate", function activator(event) {
       return Promise.all(
         keys
           .filter(function(key) {
-            return key.indexOf("swdzis1") !== 0;
+            return key.indexOf("swdzis3") !== 0;
           })
           .map(function(key) {
             return caches.delete(key);

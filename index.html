@@ -23,9 +23,9 @@
       sizes="16x16"
       href="/img/favicon-16x16.png"
     />
-    <meta name="theme-color" content="#ffffff" />
     <link rel="manifest" href="manifest.json" />
     <link rel="stylesheet" href="index.css" />
+    <meta name="theme-color" content="#ffffff" />
     <meta property="fb:app_id" content="1044085795609884" />
     <meta property="og:title" content="Dziś w PL na wlodawa.net " />
     <meta property="og:type" content="website" />
@@ -42,15 +42,16 @@
   </head>
   <body>
     <span id="top"></span>
-    <script type="module" src="/js/menu.js" async defer></script>
-    <header role="banner">
+    <script type="module" src="js/menu.js" async defer></script>
+    <header>
       <moje-menu></moje-menu>
     </header>
-    <script src="/js/index.js"></script>
+    <script src="js/index.js"></script>
+    <p class="text-center"></p>
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", function() {
-          navigator.serviceWorker.register("/swd1.js").then(
+          navigator.serviceWorker.register("/swd3.js").then(
             function(registration) {
               console.log(
                 "ServiceWorker registration successful with scope: ",
