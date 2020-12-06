@@ -5,6 +5,7 @@
     var head = document.createElement("div");
     head.style.backgroundImage = `url(${art.urlToImage})`;
     head.classList.add("head");
+    head.setAttribute("loading", "lazy");
 
     var aElem = document.createElement("a");
     aElem.setAttribute("href", art.url);
