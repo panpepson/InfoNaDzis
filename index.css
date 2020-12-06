@@ -58,9 +58,6 @@ a:link {
 }
 
 .share {
-  /* background-image: url(img/.svg); */
-  /* display: flex;
-  /* align-items: flex-end; */
   width: 25px;
   height: 25px;
   position: absolute;
@@ -69,10 +66,10 @@ a:link {
 }
 
 .fb {
-  padding-inline-start: 20px;
+  padding-inline-start: 15px;
 }
 .tel {
-  padding-inline-start: 60px;
+  padding-inline-start: 55px;
 }
 
 @media (min-width: 440px) {
