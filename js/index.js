@@ -38,23 +38,26 @@
   document.body.appendChild(skocz);
 })();
 
+let element = document.body;
 let lampa = localStorage.getItem("lampa");
 
+if (!lampa) {
+  var elemen = document.body;
+  element.classList.toggle(lampa);
+  localStorage.setItem("lampa", "white-mode");
+  lampa = "white-mode";
+} else {
+  element.classList.toggle(lampa);
+}
+
 function lampka() {
-  var element = document.body;
   if (lampa === "white-mode") {
     element.classList.toggle("dark-mode");
     localStorage.setItem("lampa", "dark-mode");
-  } else {
+    lampa = "dark-mode";
+  } else if (lampa === "dark-mode") {
     element.classList.toggle("dark-mode");
     localStorage.setItem("lampa", "white-mode");
+    lampa = "white-mode";
   }
-}
-
-if (isNaN(lampa)) {
-  var ele = document.body;
-  ele.classList.toggle(lampa);
-} else {
-  element.classList.toggle("white-mode");
-  localStorage.setItem("lampa", "white-mode");
 }
