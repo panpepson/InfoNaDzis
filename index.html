@@ -39,18 +39,36 @@
       property="og:image"
       content="https://dzis.wlodawa.net/img/dzis-wlodawa-256x256.png"
     />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/basket.js/0.5.2/basket.min.js"
+      integrity="sha256-O9J7atQ3NCvp5ZbCiMTbHvBQaMpgkX60oVj2J5iua/o="
+      crossorigin="anonymous"
+    >
+      basket.require(
+         { url: "/js/biznes.js" },
+         { url: "/js/index.js" },
+         { url: "/js/lampa.js" },
+         { url: "/js/menu.js" },
+         { url: "/js/nauka.js" },
+         { url: "/js/plotka.js" },
+         { url: "/js/sport.js" },
+         { url: "/js/technologia.js" },
+         { url: "/js/zdrowie.js" }
+       );
+    </script>
   </head>
   <body>
     <span id="top"></span>
-    <script type="module" src="js/menu.js" async defer></script>
+    <script src="js/lampa.js"></script>
+    <script type="module" src="js/menu.js" defer></script>
+    <script src="js/index.js" async></script>
     <header>
       <moje-menu></moje-menu>
     </header>
-    <script src="js/index.js"></script>
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", function() {
-          navigator.serviceWorker.register("/swd3.js").then(
+          navigator.serviceWorker.register("/swd4.js").then(
             function(registration) {
               console.log(
                 "ServiceWorker registration successful with scope: ",

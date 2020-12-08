@@ -1,25 +1,22 @@
-// let lampa = localStorage.getItem("lampa");
+let element = document.body;
+let lampa = localStorage.getItem("lampa");
 
-// function lampka() {
-//   let mode = "";
-//   var element = document.body;
-//   if (lampa === "white-mode") {
-//     element.classList.toggle("dark-mode");
-//     mode = "dark-mode";
-//     localStorage.setItem("lampa", mode);
-//   } else {
-//     element.classList.toggle("white-mode");
-//     mode = "white-mode";
-//     localStorage.setItem("lampa", mode);
-//   }
-// }
+if (!lampa) {
+  element.classList.toggle(lampa);
+  localStorage.setItem("lampa", "white-mode");
+  lampa = "white-mode";
+} else {
+  element.classList.toggle(lampa);
+}
 
-// if (isNaN(lampa)) {
-//   var ele = document.body;
-//   ele.classList.toggle(lampa);
-// }
-
-// export function lampka() {
-//   var element = document.body;
-//   element.classList.toggle("dark-mode");
-// }
+function lampka() {
+  if (lampa === "white-mode") {
+    element.classList.toggle("dark-mode");
+    localStorage.setItem("lampa", "dark-mode");
+    lampa = "dark-mode";
+  } else if (lampa === "dark-mode") {
+    element.classList.toggle("dark-mode");
+    localStorage.setItem("lampa", "white-mode");
+    lampa = "white-mode";
+  }
+}
